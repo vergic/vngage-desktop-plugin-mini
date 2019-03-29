@@ -2,6 +2,11 @@
 A lightweight foundation for a vngage desktop plugin.
 
 ### Installation
+Clone the repository
+```
+git clone https://github.com/vergic/vngage-desktop-plugin-mini.git
+```
+
 Install parcel
 
 ```
@@ -17,9 +22,10 @@ cd vngage-desktop-plugin-mini
 parcel index.html --cert certificate.cert --key private.key --https
 ```
 go to [https://localhost:1234/](https://localhost:1234/)
+And see that it runs
 
 ### Create a plugin in Vergic engage
-1. Go to the plugins tab
+1. In Vergic engage, go to the plugins tab
 1. Click the "+New plugin" button
     1. Enter a plugin name in the popup
     1. Set the url to https://localhost:1234/
@@ -31,4 +37,5 @@ go to [https://localhost:1234/](https://localhost:1234/)
 1. Go to Active Groups, Subscriptions, and Actions and select what you need.
 1. Click save
 1. Go to the desktop tab in Vergic engage.
+1. The plugin will be displayed on the left next to the sidebar
 
