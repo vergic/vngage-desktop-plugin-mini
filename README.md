@@ -1,0 +1,1 @@
+# vngage-desktop-plugin-mini
