@@ -1,0 +1,14 @@
+.DS_store
+.DS_Store
+node_modules
+dist
+build
+.cache
+
+# Webstorm
+workspace.xml
+tasks.xml
+*.iws
+.idea
+yarn.lock
+yarn-error.log
