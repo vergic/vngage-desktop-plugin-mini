@@ -46,3 +46,7 @@ _You need the proper authorization to see the Plugins tab._
 1. The plugin will be displayed on the left next to the sidebar
 
 
+### starting a plugin outside of vergic engage (plug out)
+
+parcel plugout.html --cert certificate.cert --key private.key --https
+
